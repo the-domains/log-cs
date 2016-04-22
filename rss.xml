@@ -4,21 +4,21 @@
         <description><![CDATA[Logistics Consulting]]></description>
         <link>https://thegrid.ai/log-cs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 04:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 04:52:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/log-cs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Projects</p>]]></description>
+            <link>https://thegrid.ai/log-cs/projects/index.html</link>
+            <guid isPermaLink="false">2ccc8656-889c-4aa3-9fba-a2ec8a9773ac</guid>
+            <pubDate>Fri, 22 Apr 2016 04:51:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our definition of logistics services </p>]]></description>
             <link>https://thegrid.ai/log-cs/our-definition-of-logistics-services/index.html</link>
             <guid isPermaLink="false">a08287a1-4cf5-40a5-9791-dc7b4b9eccc2</guid>
             <pubDate>Fri, 22 Apr 2016 04:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Projects</p>]]></description>
-            <link>https://thegrid.ai/log-cs/projects/index.html</link>
-            <guid isPermaLink="false">2ccc8656-889c-4aa3-9fba-a2ec8a9773ac</guid>
-            <pubDate>Fri, 22 Apr 2016 04:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
