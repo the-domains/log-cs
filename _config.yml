@@ -1,0 +1,28 @@
+name: log-cs
+favicon: null
+layout_spectrum: 0.6873528871219605
+typography_spectrum: 0.11336306063458323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.02562010637484491
+  lightness: 0.9509089209605008
+  saturation: 0.6838664899114519
+  rhythmicContrast: 0.13389274408109486
+purpose: []
